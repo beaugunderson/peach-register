@@ -1,0 +1,21 @@
+{
+  "name": "peach-register",
+  "version": "1.0.0",
+  "description": "register for peach",
+  "main": "peach-register.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "peach"
+  ],
+  "bin": {
+    "peach-register": "./peach-register.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^0.11.1",
+    "request": "^2.67.0"
+  }
+}
