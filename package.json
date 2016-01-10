@@ -12,10 +12,18 @@
   "bin": {
     "peach-register": "./peach-register.js"
   },
-  "author": "",
+  "author": "Beau Gunderson <beau@beaugunderson.com> (https://beaugunderson.com/)",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^0.11.1",
     "request": "^2.67.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beaugunderson/peach-register.git"
+  },
+  "bugs": {
+    "url": "https://github.com/beaugunderson/peach-register/issues"
+  },
+  "homepage": "https://github.com/beaugunderson/peach-register#readme"
 }
