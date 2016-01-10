@@ -6,3 +6,5 @@ device.
 (The code for this is extremely small; please
 [take a look](https://github.com/beaugunderson/peach-register/blob/master/peach-register.js)
 if you're worried about privacy issues.)
+
+![life finds a way](http://i.giphy.com/VHW0X0GEQQjiU.gif)
